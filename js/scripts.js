@@ -22,6 +22,6 @@ $(document).ready(function() {
     $("#truthy").text(result);
 
     $("#result").show();
-    event.preventDefault();
+    event.preventDefault(); 
   });
 });
